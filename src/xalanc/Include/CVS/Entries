@@ -1,0 +1,25 @@
+/AIXDefinitions.hpp/1.9/Sat Nov 13 01:17:01 2004//TXalan-C_1_10_0
+/GCCDefinitions.hpp/1.12/Mon Oct 17 18:23:49 2005//TXalan-C_1_10_0
+/HPUXDefinitions.hpp/1.9/Fri Aug  6 01:15:25 2004//TXalan-C_1_10_0
+/IntelDefinitions.hpp/1.7/Fri Aug 20 22:47:10 2004//TXalan-C_1_10_0
+/OS390Definitions.hpp/1.7/Mon Sep 19 18:18:24 2005//TXalan-C_1_10_0
+/OS400Definitions.hpp/1.5/Fri Jul 30 01:24:33 2004//TXalan-C_1_10_0
+/PlatformDefinitions.hpp/1.12/Mon Apr 25 19:52:01 2005//TXalan-C_1_10_0
+/STLHelper.hpp/1.10/Sun Nov 14 21:13:04 2004//TXalan-C_1_10_0
+/SolarisDefinitions.hpp/1.8/Mon Oct 17 18:23:49 2005//TXalan-C_1_10_0
+/TRU64Definitions.hpp/1.8/Mon Sep 19 18:18:24 2005//TXalan-C_1_10_0
+/VCPPDefinitions.hpp/1.13/Fri Oct  7 22:38:42 2005//TXalan-C_1_10_0
+/XalanAutoPtr.hpp/1.4/Thu Feb 26 22:30:58 2004//TXalan-C_1_10_0
+/XalanDeque.hpp/1.7/Tue Feb  8 22:33:40 2005//TXalan-C_1_10_0
+/XalanList.hpp/1.9/Sun Nov 14 21:13:04 2004//TXalan-C_1_10_0
+/XalanMap.hpp/1.20/Thu Aug 18 01:02:14 2005//TXalan-C_1_10_0
+/XalanMemMgrAutoPtr.hpp/1.9/Tue May 17 15:55:49 2005//TXalan-C_1_10_0
+/XalanMemMgrHelper.hpp/1.3/Mon Sep 19 18:20:18 2005//TXalan-C_1_10_0
+/XalanMemMngArrayAllocate.hpp/1.2/Mon Nov  8 18:08:50 2004//TXalan-C_1_10_0
+/XalanMemoryManagement.hpp/1.13/Tue May 17 21:15:11 2005//TXalan-C_1_10_0
+/XalanObjectCache.hpp/1.8/Mon May  2 19:11:39 2005//TXalan-C_1_10_0
+/XalanObjectStackCache.hpp/1.5/Tue Nov  9 16:06:04 2004//TXalan-C_1_10_0
+/XalanSet.hpp/1.4/Mon Nov  8 18:08:50 2004//TXalan-C_1_10_0
+/XalanVector.hpp/1.16/Tue May 17 21:17:52 2005//TXalan-C_1_10_0
+/XalanVersion.hpp/1.11/Tue Sep 20 13:17:07 2005//TXalan-C_1_10_0
+D

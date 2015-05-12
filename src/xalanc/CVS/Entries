@@ -1,0 +1,21 @@
+/Makefile.in/1.38/Thu Aug 18 14:01:15 2005//TXalan-C_1_10_0
+D/DOMSupport////
+D/Harness////
+D/ICUBridge////
+D/Include////
+D/NLS////
+D/PlatformSupport////
+D/TestXPath////
+D/TestXSLT////
+D/Utils////
+D/XMLSupport////
+D/XPath////
+D/XPathCAPI////
+D/XSLT////
+D/XalanDOM////
+D/XalanEXSLT////
+D/XalanExe////
+D/XalanExtensions////
+D/XalanSourceTree////
+D/XalanTransformer////
+D/XercesParserLiaison////
